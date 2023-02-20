@@ -10,9 +10,7 @@
 }
 
 .Weather p {
-  position: relative;
-  top: -5px;
-  margin: 0;
+  margin: 6px 0;
 }
 
 .Weather button {

@@ -58,6 +58,12 @@ export default function Weather() {
           </div>
         </div>
       </div>
+      <p>
+        Coded by Maja Piszczek,{" "}
+        <a href="https://github.com/majapiszczek/react-weather-app">
+          open-sourced.
+        </a>
+      </p>
     </div>
   );
 }
